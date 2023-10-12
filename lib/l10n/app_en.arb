@@ -3,6 +3,7 @@
 "changelanguage" : " change language to Arabic",
 "screen" : "Login",
 "hint" : "Enter username",
-"name":"Maryam"
+"pass":"Enter password",
+"button": "Sign in"
 
 }
